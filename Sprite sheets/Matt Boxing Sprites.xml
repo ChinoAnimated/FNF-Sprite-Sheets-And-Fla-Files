@@ -1,0 +1,505 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Matt Boxing Sprites.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Matt Attack Down instance 10000" x="50" y="50" width="264" height="209" frameX="0" frameY="-7" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10001" x="364" y="50" width="143" height="214" frameX="-1" frameY="-2" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10002" x="364" y="50" width="143" height="214" frameX="-1" frameY="-2" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10003" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10004" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10005" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10006" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10007" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10008" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10009" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10010" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10011" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10012" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10013" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10014" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10015" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10016" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10017" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10018" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10019" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10020" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10021" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10022" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack Down instance 10023" x="557" y="50" width="141" height="216" frameX="-3" frameY="0" frameWidth="264" frameHeight="216"/>
+	<SubTexture name="Matt Attack FistThrow instance 10000" x="748" y="50" width="125" height="230" frameX="-31" frameY="-11" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10001" x="748" y="50" width="125" height="230" frameX="-31" frameY="-11" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10002" x="923" y="50" width="117" height="226" frameX="-30" frameY="-15" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10003" x="1090" y="50" width="117" height="227" frameX="-30" frameY="-14" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10004" x="1257" y="50" width="116" height="228" frameX="-31" frameY="-13" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10005" x="1257" y="50" width="116" height="228" frameX="-31" frameY="-13" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10006" x="1257" y="50" width="116" height="228" frameX="-31" frameY="-13" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10007" x="1423" y="50" width="144" height="223" frameX="-3" frameY="-18" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10008" x="1617" y="50" width="133" height="224" frameX="-14" frameY="-17" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10009" x="1800" y="50" width="128" height="225" frameX="-19" frameY="-16" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10010" x="1800" y="50" width="128" height="225" frameX="-19" frameY="-16" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10011" x="1978" y="50" width="220" height="228" frameX="-31" frameY="-13" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10012" x="2248" y="50" width="223" height="242" frameX="-41" frameY="0" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10013" x="2521" y="50" width="238" height="240" frameX="-34" frameY="0" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10014" x="2809" y="50" width="227" height="239" frameX="-33" frameY="-1" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10015" x="2809" y="50" width="227" height="239" frameX="-33" frameY="-1" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10016" x="3086" y="50" width="205" height="236" frameX="-29" frameY="-4" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10017" x="3341" y="50" width="168" height="232" frameX="-13" frameY="-10" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10018" x="3559" y="50" width="182" height="212" frameX="-4" frameY="-24" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10019" x="3559" y="50" width="182" height="212" frameX="-4" frameY="-24" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10020" x="3791" y="50" width="189" height="205" frameX="0" frameY="-31" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10021" x="3791" y="50" width="189" height="205" frameX="0" frameY="-31" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10022" x="3791" y="50" width="189" height="205" frameX="0" frameY="-31" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10023" x="3791" y="50" width="189" height="205" frameX="0" frameY="-31" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack FistThrow instance 10024" x="3791" y="50" width="189" height="205" frameX="0" frameY="-31" frameWidth="272" frameHeight="242"/>
+	<SubTexture name="Matt Attack Left instance 10000" x="50" y="342" width="268" height="220" frameX="0" frameY="-5" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10001" x="368" y="342" width="170" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10002" x="368" y="342" width="170" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10003" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10004" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10005" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10006" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10007" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10008" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10009" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10010" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10011" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10012" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10013" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10014" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10015" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10016" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10017" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10018" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10019" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10020" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10021" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Left instance 10022" x="588" y="342" width="147" height="225" frameX="-5" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Matt Attack Right instance 10000" x="785" y="342" width="286" height="221" frameX="0" frameY="-6" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10001" x="1121" y="342" width="159" height="226" frameX="-3" frameY="-1" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10002" x="1121" y="342" width="159" height="226" frameX="-3" frameY="-1" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10003" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10004" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10005" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10006" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10007" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10008" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10009" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10010" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10011" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10012" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10013" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Right instance 10014" x="1330" y="342" width="143" height="227" frameX="-6" frameY="0" frameWidth="286" frameHeight="227"/>
+	<SubTexture name="Matt Attack Up instance 10000" x="1523" y="342" width="269" height="236"/>
+	<SubTexture name="Matt Attack Up instance 10001" x="1842" y="342" width="175" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10002" x="1842" y="342" width="175" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10003" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10004" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10005" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10006" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10007" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10008" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10009" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10010" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10011" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10012" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10013" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10014" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10015" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10016" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10017" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10018" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10019" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10020" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10021" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10022" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Attack Up instance 10023" x="2067" y="342" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Matt Block Down instance 10000" x="2264" y="342" width="114" height="222" frameX="0" frameY="0" frameWidth="130" frameHeight="222"/>
+	<SubTexture name="Matt Block Down instance 10001" x="2428" y="342" width="124" height="222" frameX="0" frameY="0" frameWidth="130" frameHeight="222"/>
+	<SubTexture name="Matt Block Down instance 10002" x="2428" y="342" width="124" height="222" frameX="0" frameY="0" frameWidth="130" frameHeight="222"/>
+	<SubTexture name="Matt Block Down instance 10003" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10004" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10005" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10006" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10007" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10008" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10009" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10010" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10011" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10012" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10013" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10014" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10015" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10016" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10017" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10018" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10019" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10020" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10021" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10022" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Down instance 10023" x="2602" y="342" width="130" height="222"/>
+	<SubTexture name="Matt Block Left instance 10000" x="2782" y="342" width="115" height="224" frameX="0" frameY="-1" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10001" x="2947" y="342" width="115" height="224" frameX="0" frameY="-1" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10002" x="2947" y="342" width="115" height="224" frameX="0" frameY="-1" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10003" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10004" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10005" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10006" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10007" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10008" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10009" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10010" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10011" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10012" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10013" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10014" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10015" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10016" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10017" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10018" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10019" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10020" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10021" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10022" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Left instance 10023" x="3112" y="342" width="114" height="225" frameX="-1" frameY="0" frameWidth="115" frameHeight="225"/>
+	<SubTexture name="Matt Block Right instance 10000" x="3276" y="342" width="127" height="226" frameX="0" frameY="0" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10001" x="3453" y="342" width="138" height="226" frameX="-1" frameY="-1" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10002" x="3453" y="342" width="138" height="226" frameX="-1" frameY="-1" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10003" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10004" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10005" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10006" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10007" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10008" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10009" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10010" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10011" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10012" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10013" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10014" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10015" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10016" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10017" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10018" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10019" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10020" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10021" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10022" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Right instance 10023" x="3641" y="342" width="142" height="225" frameX="0" frameY="-2" frameWidth="142" frameHeight="227"/>
+	<SubTexture name="Matt Block Up instance 10000" x="3833" y="342" width="130" height="227" frameX="0" frameY="0" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10001" x="50" y="628" width="138" height="226" frameX="-6" frameY="-2" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10002" x="50" y="628" width="138" height="226" frameX="-6" frameY="-2" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10003" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10004" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10005" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10006" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10007" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10008" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10009" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10010" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10011" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10012" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10013" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10014" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10015" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10016" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10017" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10018" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10019" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10020" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10021" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10022" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Block Up instance 10023" x="238" y="628" width="142" height="225" frameX="-5" frameY="-3" frameWidth="147" frameHeight="228"/>
+	<SubTexture name="Matt Drawback instance 10000" x="430" y="628" width="135" height="226" frameX="-124" frameY="-1" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10001" x="615" y="628" width="204" height="227" frameX="-79" frameY="0" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10002" x="869" y="628" width="268" height="247" frameX="-30" frameY="-2" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10003" x="1187" y="628" width="299" height="259" frameX="0" frameY="-5" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10004" x="1536" y="628" width="299" height="266" frameX="0" frameY="-5" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10005" x="1885" y="628" width="290" height="222" frameX="-5" frameY="-6" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10006" x="1885" y="628" width="290" height="222" frameX="-5" frameY="-6" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10007" x="2225" y="628" width="251" height="223" frameX="-27" frameY="-5" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10008" x="2225" y="628" width="251" height="223" frameX="-27" frameY="-5" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt Drawback instance 10009" x="2526" y="628" width="151" height="223" frameX="-107" frameY="-5" frameWidth="299" frameHeight="271"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10000" x="2727" y="628" width="245" height="364" frameX="-78" frameY="-99" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10001" x="3022" y="628" width="332" height="434" frameX="-39" frameY="-45" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10002" x="3404" y="628" width="404" height="467" frameX="-2" frameY="-19" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10003" x="50" y="1145" width="412" height="455" frameX="0" frameY="-8" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10004" x="512" y="1145" width="410" height="477" frameX="-4" frameY="-2" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10005" x="972" y="1145" width="407" height="486" frameX="-6" frameY="0" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10006" x="1429" y="1145" width="232" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10007" x="1711" y="1145" width="306" height="309" frameX="-58" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10008" x="2067" y="1145" width="316" height="315" frameX="-54" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10009" x="2433" y="1145" width="278" height="290" frameX="-94" frameY="-173" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10010" x="2761" y="1145" width="312" height="308" frameX="-58" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10011" x="3123" y="1145" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10012" x="3489" y="1145" width="271" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10013" x="50" y="1681" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10014" x="406" y="1681" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10015" x="772" y="1681" width="249" height="294" frameX="-94" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10016" x="1071" y="1681" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10017" x="1427" y="1681" width="316" height="315" frameX="-54" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10018" x="1793" y="1681" width="229" height="290" frameX="-94" frameY="-173" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10019" x="2072" y="1681" width="306" height="309" frameX="-58" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10020" x="2428" y="1681" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10021" x="2794" y="1681" width="229" height="294" frameX="-94" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10022" x="3073" y="1681" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10023" x="3429" y="1681" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10024" x="3795" y="1681" width="229" height="294" frameX="-94" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10025" x="1711" y="1145" width="306" height="309" frameX="-58" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10026" x="50" y="2048" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10027" x="416" y="2048" width="255" height="292" frameX="-94" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10028" x="721" y="2048" width="314" height="306" frameX="-58" frameY="-173" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10029" x="1085" y="2048" width="316" height="315" frameX="-54" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10030" x="1451" y="2048" width="271" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10031" x="1772" y="2048" width="307" height="309" frameX="-58" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10032" x="2129" y="2048" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10033" x="1772" y="2048" width="307" height="309" frameX="-58" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10034" x="2495" y="2048" width="276" height="292" frameX="-94" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10035" x="2821" y="2048" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10036" x="3187" y="2048" width="229" height="292" frameX="-94" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10037" x="3466" y="2048" width="306" height="306" frameX="-58" frameY="-173" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10038" x="2428" y="1681" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10039" x="50" y="2415" width="229" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10040" x="3073" y="1681" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10041" x="329" y="2415" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10042" x="3795" y="1681" width="229" height="294" frameX="-94" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10043" x="695" y="2415" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10044" x="50" y="2048" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10045" x="1429" y="1145" width="232" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10046" x="1051" y="2415" width="306" height="308" frameX="-58" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10047" x="1407" y="2415" width="318" height="313" frameX="-54" frameY="-173" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10048" x="1775" y="2415" width="276" height="292" frameX="-94" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10049" x="2101" y="2415" width="307" height="309" frameX="-58" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10050" x="1775" y="2415" width="276" height="292" frameX="-94" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10051" x="406" y="1681" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10052" x="2101" y="2415" width="307" height="309" frameX="-58" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10053" x="2821" y="2048" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10054" x="50" y="1681" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10055" x="2458" y="2415" width="229" height="292" frameX="-94" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10056" x="3466" y="2048" width="306" height="306" frameX="-58" frameY="-173" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10057" x="2428" y="1681" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10058" x="50" y="2415" width="229" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10059" x="3073" y="1681" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10060" x="329" y="2415" width="316" height="317" frameX="-54" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10061" x="3795" y="1681" width="229" height="294" frameX="-94" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10062" x="695" y="2415" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10063" x="50" y="2048" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10064" x="1429" y="1145" width="232" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10065" x="1051" y="2415" width="306" height="308" frameX="-58" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10066" x="1407" y="2415" width="318" height="313" frameX="-54" frameY="-173" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10067" x="2495" y="2048" width="276" height="292" frameX="-94" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10068" x="2737" y="2415" width="312" height="308" frameX="-58" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10069" x="3099" y="2415" width="316" height="316" frameX="-54" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10070" x="1451" y="2048" width="271" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10071" x="3465" y="2415" width="306" height="310" frameX="-58" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10072" x="1451" y="2048" width="271" height="293" frameX="-94" frameY="-170" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10073" x="1085" y="2048" width="316" height="315" frameX="-54" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10074" x="50" y="2782" width="249" height="294" frameX="-94" frameY="-169" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt GlowEyes Dance instance 10075" x="349" y="2782" width="306" height="308" frameX="-58" frameY="-171" frameWidth="414" frameHeight="486"/>
+	<SubTexture name="Matt Hey instance 10000" x="705" y="2782" width="213" height="245"/>
+	<SubTexture name="Matt Hey instance 10001" x="968" y="2782" width="212" height="241" frameX="-1" frameY="-4" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10002" x="968" y="2782" width="212" height="241" frameX="-1" frameY="-4" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10003" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10004" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10005" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10006" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10007" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10008" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10009" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10010" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10011" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10012" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10013" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10014" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10015" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10016" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10017" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10018" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10019" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10020" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10021" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10022" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10023" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Hey instance 10024" x="1230" y="2782" width="212" height="242" frameX="-1" frameY="-3" frameWidth="213" frameHeight="245"/>
+	<SubTexture name="Matt Idle instance 10000" x="1492" y="2782" width="158" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10001" x="1492" y="2782" width="158" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10002" x="1492" y="2782" width="158" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10003" x="1700" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10004" x="1700" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10005" x="1700" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10006" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10007" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10008" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10009" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10010" x="2106" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10011" x="2106" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10012" x="2106" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10013" x="2307" y="2782" width="148" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10014" x="2307" y="2782" width="148" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10015" x="2307" y="2782" width="148" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10016" x="2505" y="2782" width="146" height="225" frameX="-1" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10017" x="2505" y="2782" width="146" height="225" frameX="-1" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10018" x="2701" y="2782" width="145" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10019" x="2701" y="2782" width="145" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10020" x="2701" y="2782" width="145" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10021" x="2896" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10022" x="2896" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10023" x="2896" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10024" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10025" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10026" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10027" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10028" x="3299" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10029" x="3299" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10030" x="3299" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10031" x="3503" y="2782" width="157" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10032" x="3503" y="2782" width="157" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10033" x="3503" y="2782" width="157" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10034" x="3710" y="2782" width="160" height="225" frameX="0" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10035" x="3710" y="2782" width="160" height="225" frameX="0" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10036" x="1492" y="2782" width="158" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10037" x="1492" y="2782" width="158" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10038" x="1492" y="2782" width="158" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10039" x="1700" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10040" x="1700" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10041" x="1700" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10042" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10043" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10044" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10045" x="1904" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10046" x="2106" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10047" x="2106" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10048" x="2106" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10049" x="2307" y="2782" width="148" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10050" x="2307" y="2782" width="148" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10051" x="2307" y="2782" width="148" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10052" x="2505" y="2782" width="146" height="225" frameX="-1" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10053" x="2505" y="2782" width="146" height="225" frameX="-1" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10054" x="2701" y="2782" width="145" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10055" x="2701" y="2782" width="145" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10056" x="2701" y="2782" width="145" height="228" frameX="-2" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10057" x="2896" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10058" x="2896" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10059" x="2896" y="2782" width="151" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10060" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10061" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10062" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10063" x="3097" y="2782" width="152" height="229" frameX="-1" frameY="0" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10064" x="3299" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10065" x="3299" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10066" x="3299" y="2782" width="154" height="228" frameX="-1" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10067" x="3503" y="2782" width="157" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10068" x="3503" y="2782" width="157" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10069" x="3503" y="2782" width="157" height="228" frameX="0" frameY="-1" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10070" x="3710" y="2782" width="160" height="225" frameX="0" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Idle instance 10071" x="3710" y="2782" width="160" height="225" frameX="0" frameY="-4" frameWidth="160" frameHeight="229"/>
+	<SubTexture name="Matt Parry Down instance 10000" x="50" y="3140" width="190" height="247" frameX="-40" frameY="0" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10001" x="290" y="3140" width="265" height="262" frameX="-5" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10002" x="605" y="3140" width="276" height="269" frameX="0" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10003" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10004" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10005" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10006" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10007" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10008" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10009" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10010" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10011" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10012" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10013" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10014" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10015" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10016" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10017" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10018" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10019" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10020" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10021" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10022" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Down instance 10023" x="931" y="3140" width="116" height="222" frameX="-81" frameY="-1" frameWidth="276" frameHeight="270"/>
+	<SubTexture name="Matt Parry Up instance 10000" x="1097" y="3140" width="217" height="250" frameX="-40" frameY="0" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10001" x="1364" y="3140" width="265" height="265" frameX="-5" frameY="-1" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10002" x="1679" y="3140" width="276" height="272" frameX="0" frameY="-1" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10003" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10004" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10005" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10006" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10007" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10008" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10009" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10010" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10011" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10012" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10013" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10014" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10015" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10016" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10017" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10018" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10019" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10020" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10021" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10022" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Matt Parry Up instance 10023" x="2005" y="3140" width="173" height="225" frameX="-69" frameY="-2" frameWidth="276" frameHeight="273"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10000" x="2228" y="3140" width="269" height="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10001" x="2547" y="3140" width="175" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10002" x="2547" y="3140" width="175" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10003" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10004" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10005" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10006" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10007" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10008" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10009" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10010" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10011" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10012" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10013" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10014" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10015" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10016" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10017" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10018" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10019" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10020" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10021" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10022" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 2 :) instance 10023" x="2772" y="3140" width="147" height="235" frameX="0" frameY="-1" frameWidth="269" frameHeight="236"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10000" x="2969" y="3140" width="268" height="220" frameX="0" frameY="-5" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10001" x="3287" y="3140" width="169" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10002" x="3287" y="3140" width="169" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10003" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10004" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10005" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10006" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10007" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10008" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10009" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10010" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10011" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10012" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10013" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10014" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10015" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10016" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10017" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10018" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10019" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10020" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10021" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy 3 :) instance 10022" x="3506" y="3140" width="147" height="225" frameX="-6" frameY="0" frameWidth="268" frameHeight="225"/>
+	<SubTexture name="Symbol 7 copy :) instance 10000" x="3703" y="3140" width="285" height="221" frameX="0" frameY="-6" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10001" x="50" y="3462" width="158" height="226" frameX="-3" frameY="-1" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10002" x="50" y="3462" width="158" height="226" frameX="-3" frameY="-1" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10003" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10004" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10005" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10006" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10007" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10008" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10009" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10010" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10011" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10012" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10013" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+	<SubTexture name="Symbol 7 copy :) instance 10014" x="258" y="3462" width="143" height="227" frameX="-6" frameY="0" frameWidth="285" frameHeight="227"/>
+</TextureAtlas>
