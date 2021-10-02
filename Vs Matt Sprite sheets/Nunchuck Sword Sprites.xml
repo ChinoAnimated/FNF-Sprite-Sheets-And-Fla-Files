@@ -50,6 +50,7 @@
 	<SubTexture name="Nunchuck Sword Attack Left instance 10020" x="1324" y="395" width="302" height="260" frameX="0" frameY="0" frameWidth="520" frameHeight="261"/>
 	<SubTexture name="Nunchuck Sword Attack Left instance 10021" x="1324" y="395" width="302" height="260" frameX="0" frameY="0" frameWidth="520" frameHeight="261"/>
 	<SubTexture name="Nunchuck Sword Attack Left instance 10022" x="1324" y="395" width="302" height="260" frameX="0" frameY="0" frameWidth="520" frameHeight="261"/>
+	<SubTexture name="Nunchuck Sword Attack Left instance 10023" x="1324" y="395" width="302" height="260" frameX="0" frameY="0" frameWidth="520" frameHeight="261"/>
 	<SubTexture name="Nunchuck Sword Attack Right  instance 10000" x="50" y="705" width="413" height="256" frameX="-215" frameY="-5" frameWidth="628" frameHeight="261"/>
 	<SubTexture name="Nunchuck Sword Attack Right  instance 10001" x="513" y="705" width="486" height="260" frameX="-40" frameY="-1" frameWidth="628" frameHeight="261"/>
 	<SubTexture name="Nunchuck Sword Attack Right  instance 10002" x="513" y="705" width="486" height="260" frameX="-40" frameY="-1" frameWidth="628" frameHeight="261"/>
