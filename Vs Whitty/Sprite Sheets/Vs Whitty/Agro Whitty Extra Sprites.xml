@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Agro Whitty Extra Sprites.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name=" Hit instance 10000" x="10" y="10" width="444" height="752" frameX="-34" frameY="-18" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10001" x="464" y="10" width="473" height="757" frameX="-2" frameY="-13" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10002" x="947" y="10" width="469" height="754" frameX="0" frameY="-16" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10003" x="947" y="10" width="469" height="754" frameX="0" frameY="-16" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10004" x="1426" y="10" width="458" height="750" frameX="-14" frameY="-21" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10005" x="1426" y="10" width="458" height="750" frameX="-14" frameY="-21" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10006" x="1894" y="10" width="444" height="758" frameX="-9" frameY="-13" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10007" x="2348" y="10" width="433" height="764" frameX="-20" frameY="-7" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10008" x="2791" y="10" width="412" height="761" frameX="-28" frameY="-9" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10009" x="3213" y="10" width="412" height="769" frameX="-28" frameY="-1" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10010" x="3635" y="10" width="412" height="768" frameX="-28" frameY="-2" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10011" x="4057" y="10" width="412" height="770" frameX="-28" frameY="0" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10012" x="2791" y="10" width="412" height="761" frameX="-28" frameY="-9" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10013" x="3213" y="10" width="412" height="769" frameX="-28" frameY="-1" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10014" x="3635" y="10" width="412" height="768" frameX="-28" frameY="-2" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10015" x="4057" y="10" width="412" height="770" frameX="-28" frameY="0" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10016" x="2791" y="10" width="412" height="761" frameX="-28" frameY="-9" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10017" x="3213" y="10" width="412" height="769" frameX="-28" frameY="-1" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10018" x="3635" y="10" width="412" height="768" frameX="-28" frameY="-2" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10019" x="4057" y="10" width="412" height="770" frameX="-28" frameY="0" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10020" x="2791" y="10" width="412" height="761" frameX="-28" frameY="-9" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10021" x="3213" y="10" width="412" height="769" frameX="-28" frameY="-1" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10022" x="3635" y="10" width="412" height="768" frameX="-28" frameY="-2" frameWidth="478" frameHeight="771"/>
+	<SubTexture name=" Hit instance 10023" x="4057" y="10" width="412" height="770" frameX="-28" frameY="0" frameWidth="478" frameHeight="771"/>
+	<SubTexture name="Click Agro instance 10000" x="4479" y="10" width="484" height="817" frameX="-75" frameY="-17" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10001" x="4973" y="10" width="484" height="820" frameX="-72" frameY="-14" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10002" x="4973" y="10" width="484" height="820" frameX="-72" frameY="-14" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10003" x="5467" y="10" width="483" height="817" frameX="-75" frameY="-17" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10004" x="5960" y="10" width="558" height="803" frameX="-24" frameY="-31" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10005" x="6528" y="10" width="564" height="814" frameX="-18" frameY="-20" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10006" x="7102" y="10" width="572" height="819" frameX="0" frameY="-15" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10007" x="10" y="840" width="574" height="819" frameX="0" frameY="-15" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10008" x="594" y="840" width="495" height="820" frameX="-80" frameY="-14" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10009" x="1099" y="840" width="496" height="820" frameX="-80" frameY="-14" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10010" x="1605" y="840" width="487" height="817" frameX="-80" frameY="-17" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10011" x="1605" y="840" width="487" height="817" frameX="-80" frameY="-17" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10012" x="2102" y="840" width="473" height="802" frameX="-99" frameY="-32" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10013" x="2102" y="840" width="473" height="802" frameX="-99" frameY="-32" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10014" x="2585" y="840" width="387" height="834" frameX="-147" frameY="0" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10015" x="2982" y="840" width="389" height="834" frameX="-147" frameY="0" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10016" x="3381" y="840" width="403" height="828" frameX="-147" frameY="-6" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Click Agro instance 10017" x="3794" y="840" width="403" height="828" frameX="-147" frameY="-6" frameWidth="582" frameHeight="834"/>
+	<SubTexture name="Cold Down Agro instance 10000" x="4207" y="840" width="410" height="839" frameX="0" frameY="0" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10001" x="4207" y="840" width="410" height="839" frameX="0" frameY="0" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10002" x="4627" y="840" width="414" height="838" frameX="0" frameY="-1" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10003" x="4627" y="840" width="414" height="838" frameX="0" frameY="-1" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10004" x="5051" y="840" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10005" x="5051" y="840" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10006" x="5475" y="840" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10007" x="5475" y="840" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10008" x="5899" y="840" width="414" height="829" frameX="0" frameY="-10" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10009" x="5899" y="840" width="414" height="829" frameX="0" frameY="-10" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10010" x="6323" y="840" width="414" height="831" frameX="0" frameY="-8" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10011" x="6323" y="840" width="414" height="831" frameX="0" frameY="-8" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10012" x="6747" y="840" width="414" height="825" frameX="0" frameY="-14" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10013" x="6747" y="840" width="414" height="825" frameX="0" frameY="-14" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10014" x="7171" y="840" width="414" height="829" frameX="0" frameY="-10" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10015" x="7171" y="840" width="414" height="829" frameX="0" frameY="-10" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10016" x="7595" y="840" width="414" height="837" frameX="0" frameY="-2" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10017" x="7595" y="840" width="414" height="837" frameX="0" frameY="-2" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10018" x="10" y="1689" width="414" height="838" frameX="0" frameY="-1" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10019" x="10" y="1689" width="414" height="838" frameX="0" frameY="-1" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10020" x="434" y="1689" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10021" x="434" y="1689" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10022" x="858" y="1689" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Cold Down Agro instance 10023" x="858" y="1689" width="414" height="830" frameX="0" frameY="-9" frameWidth="414" frameHeight="839"/>
+	<SubTexture name="Heated Up Agro copy instance 10000" x="1282" y="1689" width="410" height="837" frameX="0" frameY="0" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10001" x="1702" y="1689" width="410" height="820" frameX="0" frameY="-17" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10002" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10003" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10004" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10005" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10006" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10007" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10008" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10009" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10010" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10011" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10012" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10013" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10014" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10015" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10016" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10017" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10018" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10019" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10020" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10021" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10022" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10023" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10024" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10025" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10026" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10027" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10028" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10029" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10030" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10031" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10032" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10033" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10034" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10035" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10036" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10037" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10038" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10039" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10040" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10041" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10042" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10043" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10044" x="2970" y="1689" width="414" height="833" frameX="0" frameY="-4" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10045" x="3394" y="1689" width="414" height="832" frameX="0" frameY="-5" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10046" x="2122" y="1689" width="414" height="834" frameX="0" frameY="-3" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Heated Up Agro copy instance 10047" x="2546" y="1689" width="414" height="817" frameX="0" frameY="-20" frameWidth="414" frameHeight="837"/>
+	<SubTexture name="Hit Agro  instance 10000" x="3818" y="1689" width="389" height="808" frameX="0" frameY="-62" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10001" x="4217" y="1689" width="384" height="810" frameX="-17" frameY="-60" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10002" x="4611" y="1689" width="387" height="810" frameX="-17" frameY="-60" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10003" x="5008" y="1689" width="392" height="809" frameX="-17" frameY="-61" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10004" x="5410" y="1689" width="393" height="809" frameX="-17" frameY="-61" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10005" x="5813" y="1689" width="394" height="809" frameX="-17" frameY="-61" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10006" x="6217" y="1689" width="371" height="809" frameX="-17" frameY="-61" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10007" x="6598" y="1689" width="371" height="818" frameX="-17" frameY="-52" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10008" x="6598" y="1689" width="371" height="818" frameX="-17" frameY="-52" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10009" x="6979" y="1689" width="388" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10010" x="6979" y="1689" width="388" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10011" x="7377" y="1689" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10012" x="7377" y="1689" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10013" x="7377" y="1689" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10014" x="7377" y="1689" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10015" x="7377" y="1689" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10016" x="7377" y="1689" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10017" x="10" y="2537" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10018" x="423" y="2537" width="403" height="833" frameX="-17" frameY="-37" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10019" x="836" y="2537" width="403" height="847" frameX="-17" frameY="-23" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10020" x="1249" y="2537" width="403" height="865" frameX="-17" frameY="-5" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10021" x="1662" y="2537" width="403" height="870" frameX="-17" frameY="0" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10022" x="2075" y="2537" width="403" height="870" frameX="-17" frameY="0" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Hit Agro  instance 10023" x="7377" y="1689" width="403" height="829" frameX="-17" frameY="-41" frameWidth="420" frameHeight="870"/>
+	<SubTexture name="Shield Spin Agro instance 10000" x="2488" y="2537" width="643" height="702" frameX="-159" frameY="-254" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10001" x="3141" y="2537" width="740" height="779" frameX="-39" frameY="-162" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10002" x="3891" y="2537" width="777" height="864" frameX="-45" frameY="-17" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10003" x="4678" y="2537" width="828" height="725" frameX="-31" frameY="-9" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10004" x="5516" y="2537" width="880" height="705" frameX="0" frameY="0" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10005" x="5516" y="2537" width="880" height="705" frameX="0" frameY="0" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10006" x="6406" y="2537" width="866" height="714" frameX="-3" frameY="-17" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10007" x="6406" y="2537" width="866" height="714" frameX="-3" frameY="-17" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10008" x="7282" y="2537" width="821" height="754" frameX="-37" frameY="-58" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10009" x="7282" y="2537" width="821" height="754" frameX="-37" frameY="-58" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10010" x="10" y="3417" width="402" height="828" frameX="-226" frameY="-139" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10011" x="422" y="3417" width="402" height="828" frameX="-226" frameY="-139" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10012" x="834" y="3417" width="402" height="828" frameX="-226" frameY="-139" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10013" x="1246" y="3417" width="402" height="828" frameX="-226" frameY="-139" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Shield Spin Agro instance 10014" x="1658" y="3417" width="402" height="828" frameX="-226" frameY="-139" frameWidth="880" frameHeight="967"/>
+	<SubTexture name="Whitty scream Agro instance 10000" x="2070" y="3417" width="885" height="699" frameX="-14" frameY="-12" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10001" x="2965" y="3417" width="907" height="706" frameX="-14" frameY="-5" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10002" x="3882" y="3417" width="914" height="710" frameX="-11" frameY="-1" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10003" x="4806" y="3417" width="926" height="710" frameX="-5" frameY="-1" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10004" x="5742" y="3417" width="931" height="711" frameX="-2" frameY="0" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10005" x="6683" y="3417" width="935" height="710" frameX="0" frameY="-1" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10006" x="10" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10007" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10008" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10009" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10010" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10011" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10012" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10013" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10014" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10015" x="873" y="4255" width="853" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10016" x="1736" y="4255" width="886" height="689" frameX="-13" frameY="-22" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10017" x="2632" y="4255" width="908" height="706" frameX="-13" frameY="-5" frameWidth="935" frameHeight="711"/>
+	<SubTexture name="Whitty scream Agro instance 10018" x="3882" y="3417" width="914" height="710" frameX="-11" frameY="-1" frameWidth="935" frameHeight="711"/>
+</TextureAtlas>
