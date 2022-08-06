@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Sans and Papyrus behind sign sprites.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Sans and Papyrus Bop instance 10000" x="10" y="10" width="285" height="197" frameX="-1" frameY="-2" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10001" x="10" y="10" width="285" height="197" frameX="-1" frameY="-2" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10002" x="305" y="10" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10003" x="305" y="10" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10004" x="602" y="10" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10005" x="602" y="10" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10006" x="899" y="10" width="286" height="199" frameX="0" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10007" x="899" y="10" width="286" height="199" frameX="0" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10008" x="1195" y="10" width="286" height="196" frameX="0" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10009" x="1195" y="10" width="286" height="196" frameX="0" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10010" x="1491" y="10" width="286" height="199" frameX="0" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10011" x="1491" y="10" width="286" height="199" frameX="0" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10012" x="602" y="10" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10013" x="602" y="10" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10014" x="10" y="219" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10015" x="10" y="219" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10016" x="307" y="219" width="285" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop instance 10017" x="307" y="219" width="285" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10000" x="602" y="219" width="285" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10001" x="602" y="219" width="285" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10002" x="897" y="219" width="286" height="198" frameX="-1" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10003" x="897" y="219" width="286" height="198" frameX="-1" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10004" x="1193" y="219" width="285" height="199" frameX="-1" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10005" x="1193" y="219" width="285" height="199" frameX="-1" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10006" x="1488" y="219" width="286" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10007" x="1488" y="219" width="286" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10008" x="10" y="428" width="285" height="194" frameX="-1" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10009" x="10" y="428" width="285" height="194" frameX="-1" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10010" x="305" y="428" width="286" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10011" x="305" y="428" width="286" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10012" x="1193" y="219" width="285" height="199" frameX="-1" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10013" x="1193" y="219" width="285" height="199" frameX="-1" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10014" x="601" y="428" width="286" height="199" frameX="-1" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10015" x="601" y="428" width="286" height="199" frameX="-1" frameY="0" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10016" x="897" y="428" width="284" height="195" frameX="-2" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look left instance 10017" x="897" y="428" width="284" height="195" frameX="-2" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10000" x="1191" y="428" width="286" height="196" frameX="-1" frameY="-3" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10001" x="1191" y="428" width="286" height="196" frameX="-1" frameY="-3" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10002" x="1487" y="428" width="287" height="198" frameX="-1" frameY="-1" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10003" x="1487" y="428" width="287" height="198" frameX="-1" frameY="-1" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10004" x="10" y="637" width="286" height="199" frameX="-1" frameY="0" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10005" x="10" y="637" width="286" height="199" frameX="-1" frameY="0" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10006" x="306" y="637" width="287" height="198" frameX="0" frameY="-1" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10007" x="306" y="637" width="287" height="198" frameX="0" frameY="-1" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10008" x="603" y="637" width="286" height="194" frameX="-1" frameY="-4" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10009" x="603" y="637" width="286" height="194" frameX="-1" frameY="-4" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10010" x="899" y="637" width="287" height="198" frameX="0" frameY="-1" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10011" x="899" y="637" width="287" height="198" frameX="0" frameY="-1" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10012" x="10" y="637" width="286" height="199" frameX="-1" frameY="0" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10013" x="10" y="637" width="286" height="199" frameX="-1" frameY="0" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10014" x="1196" y="637" width="287" height="199" frameX="-1" frameY="0" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10015" x="1196" y="637" width="287" height="199" frameX="-1" frameY="0" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10016" x="1493" y="637" width="285" height="195" frameX="-2" frameY="-4" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus Bop look right instance 10017" x="1493" y="637" width="285" height="195" frameX="-2" frameY="-4" frameWidth="288" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10000" x="10" y="846" width="286" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10001" x="10" y="846" width="286" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10002" x="306" y="846" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10003" x="306" y="846" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10004" x="603" y="846" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10005" x="603" y="846" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10006" x="900" y="846" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10007" x="900" y="846" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10008" x="1197" y="846" width="287" height="194" frameX="0" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10009" x="1197" y="846" width="287" height="194" frameX="0" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10010" x="1494" y="846" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10011" x="1494" y="846" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10012" x="603" y="846" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10013" x="603" y="846" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10014" x="10" y="1055" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10015" x="10" y="1055" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10016" x="307" y="1055" width="286" height="195" frameX="-1" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 1 instance 10017" x="307" y="1055" width="286" height="195" frameX="-1" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10000" x="603" y="1055" width="286" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10001" x="603" y="1055" width="286" height="196" frameX="-1" frameY="-3" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10002" x="899" y="1055" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10003" x="899" y="1055" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10004" x="1196" y="1055" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10005" x="1196" y="1055" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10006" x="1493" y="1055" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10007" x="1493" y="1055" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10008" x="10" y="1264" width="287" height="195" frameX="0" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10009" x="10" y="1264" width="287" height="195" frameX="0" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10010" x="307" y="1264" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10011" x="307" y="1264" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10012" x="604" y="1264" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10013" x="604" y="1264" width="287" height="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10014" x="901" y="1264" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10015" x="901" y="1264" width="287" height="198" frameX="0" frameY="-1" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10016" x="1198" y="1264" width="286" height="195" frameX="-1" frameY="-4" frameWidth="287" frameHeight="199"/>
+	<SubTexture name="Sans and Papyrus shook 2 instance 10017" x="1198" y="1264" width="286" height="195" frameX="-1" frameY="-4" frameWidth="287" frameHeight="199"/>
+</TextureAtlas>
